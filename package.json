@@ -1,0 +1,17 @@
+{
+  "name": "backeend-api",
+  "version": "1.0.0",
+  "description": "1. Terminal mein ye folder open karo\r 2. Ye commands chalao:\r    ```\r    npm init -y\r    npm install express\r    ```\r 3. `server.js` file yahan copy kar lo (already di gayi hai)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
